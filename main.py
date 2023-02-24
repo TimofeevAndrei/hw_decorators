@@ -19,7 +19,7 @@ def logger(old_function):
                     f'time: {time_now}\n'
                     f'name: {old_function.__name__}\n'
                     f'arguments: {args}, {kwargs}\n'
-                    f'result: {result}')
+                    f'result: {result}\n\n')
         return result
     return new_function
 
