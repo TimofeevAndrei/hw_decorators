@@ -1,0 +1,24 @@
+date: 2023-02-25
+time: 00:17:08.869286
+name: hello_world
+arguments: (), {}
+result: Hello World
+
+date: 2023-02-25
+time: 00:17:08.870288
+name: summator
+arguments: (2, 2), {}
+result: 4
+
+date: 2023-02-25
+time: 00:17:08.870288
+name: div
+arguments: (6, 2), {}
+result: 3.0
+
+date: 2023-02-25
+time: 00:17:08.870288
+name: summator
+arguments: (4.3,), {'b': 2.2}
+result: 6.5
+
